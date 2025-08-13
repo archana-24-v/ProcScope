@@ -11,7 +11,7 @@ Key features
 - multithreaded background updater for smooth UI
 - ncurses-based UI with improved layout and color highlights
 - process filtering, JSON snapshot export, and in-UI process termination
-- optional CPU temperature detection (skips gracefully if not present)
+- optional CPU temperature detection (skips if not present)
 
 ## Screenshot
 ![ProcScope Screenshot](assets/screenshot.png)
@@ -33,5 +33,5 @@ Controls inside ProcScope
 - e : export JSON snapshot (`procscope_snapshot.json`)
 - k : kill process by PID (prompts for PID)
 
-Author: Your Name (change to your name before publishing)
+Author: Archana Verma
 
